@@ -1,0 +1,11 @@
+# ignore all files in any directory named build
+build/
+
+# ignore all files in any directory named build
+node_modules/
+
+# ignore package-lock.json file
+package-lock.json
+
+# ignore any .eslintcache file
+*.eslintcache

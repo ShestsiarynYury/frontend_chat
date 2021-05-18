@@ -1,0 +1,15 @@
+#user-info {
+    border: 1px solid black;
+    width: 28vw;
+    float: left;
+}
+
+#avatar > img {
+    width: 100%;
+}
+
+#user-info > #write-message > textarea {
+    width: 100%;
+    resize: none;
+    display: block;
+}

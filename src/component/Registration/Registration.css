@@ -1,0 +1,24 @@
+h4 {text-align: center;}
+h4, #registration {
+    margin: 0 auto;
+}
+
+#registration {
+    border: 1px solid black;
+    padding: 0.5em;
+    width: 20em;
+}
+
+.form-control {
+    padding: 0.5em;
+}
+
+.form-control > label > input {
+    width: 16em;
+    float: right;
+    clear: both;
+}
+
+.form-control > label > input[type=file]{
+    width: 18em;
+}
